@@ -2,7 +2,7 @@
 
 This project combines NAO robot control with AI-powered vision models for object detection, face recognition, and behavior prediction. The system enables autonomous robot behaviors including head tracking, peekaboo gameplay, and real-time visual analysis.
 
-<small>To see how I used RL to make them walk, check out (here)[http://danielobolensky.com/posts/making_robots_walk.html]</small>
+<small>To see how I used RL to make them walk, check out [here](http://danielobolensky.com/posts/making_robots_walk.html)</small>
 
 ## Prerequisites
 Python2.7 is required to run the NAO bot, Python3 is required to run the server.
